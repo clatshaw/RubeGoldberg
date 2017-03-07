@@ -1,4 +1,4 @@
-# RubeGoldberg
+# Rube Goldberg Machine
 This demo is a simple virtual Rube Goldberg machine that I created in a couple weeks for my Math & Physics For Gaming course, and uses the Box2D physics engine to simulate the ball's physics.
 
 How to run: Double-click on the RubeGoldberg/Release/RubeGoldberg.exe file
