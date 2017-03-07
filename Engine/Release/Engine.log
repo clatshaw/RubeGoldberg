@@ -1,0 +1,21 @@
+﻿Build started 10/21/2015 10:26:46 PM.
+     1>Project "G:\Computer Science\CSCE 4215\Programs\Engine\Engine.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\DirectXTK\Inc /I..\tools /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SpriteMan.cpp renderer.cpp
+         SpriteMan.cpp
+         renderer.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"G:\Computer Science\CSCE 4215\Programs\Engine\Release\Engine.lib" /NOLOGO /LTCG Release\Main.obj
+         Release\renderer.obj
+         Release\Shader.obj
+         Release\Sound.obj
+         Release\Sprite.obj
+         Release\SpriteMan.obj
+         Release\SpriteSheet.obj
+         Release\Timer.obj
+         Engine.vcxproj -> G:\Computer Science\CSCE 4215\Programs\Engine\Release\Engine.lib
+     1>Done Building Project "G:\Computer Science\CSCE 4215\Programs\Engine\Engine.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:18.99

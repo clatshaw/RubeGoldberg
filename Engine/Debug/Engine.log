@@ -1,0 +1,20 @@
+﻿Build started 11/29/2015 11:08:03 PM.
+     1>Project "E:\Computer Science\CSCE 4215\Programs\Engine\Engine.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\DirectXTK\Inc /I..\tools /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"E:\Computer Science\CSCE 4215\Programs\Engine\Debug\Engine.lib" /NOLOGO Debug\Main.obj
+         Debug\renderer.obj
+         Debug\Shader.obj
+         Debug\Sound.obj
+         Debug\Sprite.obj
+         Debug\SpriteMan.obj
+         Debug\SpriteSheet.obj
+         Debug\Timer.obj
+         Engine.vcxproj -> E:\Computer Science\CSCE 4215\Programs\Engine\Debug\Engine.lib
+     1>Done Building Project "E:\Computer Science\CSCE 4215\Programs\Engine\Engine.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.99

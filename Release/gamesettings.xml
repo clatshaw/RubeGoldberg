@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!-- Game settings -->
+
+<settings>
+  <game name="Rube Goldberg Machine" />
+  <renderer width="1024" height="768" />
+
+  <!-- image file names -->
+  <images>
+    <image name="background" src="Images\\background.png" />
+  </images>
+
+  <!-- sprites -->
+  <sprites>
+    <sprite name="ball" file="Images\\cannonball.png"/>
+    <sprite name="button" file="Images\\button1.png"/>
+	<sprite name="button2" file="Images\\button2.png"/>
+	<sprite name="button3" file="Images\\button3.png"/>
+	<sprite name="wheel" file="Images\\vault_door.png"/>
+	<sprite name="bucket" file="Images\\bucket.png"/>
+	<sprite name="ghost1" file="Images\\ghost1.png"/>
+	<sprite name="ghost2" file="Images\\ghost2.png"/>
+	<sprite name="ghost3" file="Images\\ghost3.png"/>
+	<sprite name="ghost4" file="Images\\ghost4.png"/>
+	<sprite name="ghosthit" file="Images\\ghost_hit.png"/>
+	<sprite name="nukacola" file="Images\\nuka_cola.png"/>
+	<sprite name="spikes" file="Images\\spikes.png"/>
+	<sprite name="zombie" file="Images\\zombie.png"/>
+	<sprite name="buckingbronco" file="Images\\buckingbronco.png"/>
+	<sprite name="charge" file="Images\\charge.png"/>
+	<sprite name="devilskiss" file="Images\\devilskiss.png"/>
+	<sprite name="murderofcrows" file="Images\\murderofcrows.png"/>
+	<sprite name="possession" file="Images\\possession.png"/>
+	<sprite name="returntosender" file="Images\\returntosender.png"/>
+	<sprite name="shockjockey" file="Images\\shockjockey.png"/>
+	<sprite name="undertow" file="Images\\undertow.png"/>
+	<sprite name="skyrim" file="Images\\skyrim.png"/>
+  </sprites>
+
+
+  <!-- sound -->
+  <sounds>
+    <sound file="Sounds\\thump2.wav" instances="8"/>
+    <sound file="Sounds\\yay.wav" instances="1"/>
+	<sound file="Sounds\\boing.wav" instances="1"/>
+	<sound file="Sounds\\laser.wav" instances="1"/>
+    <sound file="Sounds\\pacman_eatghost.wav" instances="1"/>
+	<sound file="Sounds\\bottle.wav" instances="1"/>
+	<sound file="Sounds\\spikes.wav" instances="2"/>
+    <sound file="Sounds\\grr_argh.wav" instances="1"/>
+	<sound file="Sounds\\destiny.wav" instances="1"/>
+  </sounds>
+  
+
+  <!-- debugger settings -->
+  <debug linenumber="1" header="1">
+    <file select="1" name="debug.txt"/>
+    <debugger select="1"/>
+    <ip select="1" address="127.0.0.1" port="1617"/>
+  </debug>
+
+</settings>

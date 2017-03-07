@@ -1,0 +1,20 @@
+/// \mainpage Game Engine
+///
+/// This basic 2D sprite-based graphics game engine uses Microsoft
+/// DirectX 11.2 for graphics, some Windows API functions, and TinyXML2
+/// for reading XML files. It shouldn't  be necessary for you to drill 
+/// down into the code, but you should probably know about the interfaces. 
+/// This is not about writing game engine code after all,
+/// it's about incorporating game physics into a game engine.
+///
+/// Created by Ian Parberry to accompany his book
+/// "Introduction to Game Physics with Box2D", published by CRC Press in 2013.
+/// Copyright Ian Parberry, Laboratory for Recreational Computing,
+/// Department of Computer Science & Engineering, University of North
+/// Texas, Denton, TX, USA. URL: http://larc.unt.edu/ian.
+///
+/// This file is made available under the GNU All-Permissive License.
+/// Copying and distribution of this file, with or without
+/// modification, are permitted in any medium without royalty
+/// provided the copyright notice and this notice are preserved.
+/// This file is offered as-is, without any warranty.
